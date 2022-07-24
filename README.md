@@ -17,9 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>s.
 <br /> 
 
-
 - 🔭 I’m currently working on software and website development.
-- 🌱 I like programming but currently working on web development.
 - 👨🏻‍💻 I’m always ready to work and learn from other developers.
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Reinhard&count_private=true&show_icons=true" />
