@@ -18,9 +18,9 @@
 <br /> 
 
 
-- 🔭 I’m currently working on my software and website development.
-- 🌱 In love programming  but currently working on web development.
-- 👨🏻‍💻 I’m always ready to work and learn from others developers.
-- 📫 How to reach me: [chemorein24@gmail.com](mailto:chemorein24@gmail.com);
+- 🔭 I’m currently working on software and website development.
+- 🌱 I like programming but currently working on web development.
+- 👨🏻‍💻 I’m always ready to work and learn from other developers.
+- 📫 How to reach me: [chemorein24@gmail.com](mailto:chemorein24@gmail.com),
                                                                                                                                                      
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" alt="Reiny" /> </p>
