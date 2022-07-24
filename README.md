@@ -19,7 +19,7 @@
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&hide=javascript,css,scss,html&theme=tokyonight" alt="reinhard" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&show=javascript,css,scss,html&theme=tokyonight" alt="reinhard" /> </p>
    
 
 
