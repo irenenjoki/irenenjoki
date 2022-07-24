@@ -18,6 +18,11 @@
 - 👨🏻‍💻 I’m always ready to work and learn from other developers.
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
 
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight" alt="reinhard" /> </p>
+   
+
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" alt="reinhard" /> </p>
    
 
