@@ -23,7 +23,7 @@
    
 
 
-<p align=" top-right"> <img src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" alt="reinhard" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" alt="reinhard" /> </p>
    
 
 
