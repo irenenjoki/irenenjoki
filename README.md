@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&show=javascript,css,scss,html&theme=tokyonight" 
   width="400" height="300"  alt="reinhard" />&nbsp&nbsp&nbsp
-<img src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" width="400" height="300"  alt="reinhard" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" width="400" height="700"  alt="reinhard" /> </p>
    
 
 
