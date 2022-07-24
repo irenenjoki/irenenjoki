@@ -1,6 +1,6 @@
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>hello</h1>                                                            
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there!</h1>                                                            
 
 *Languages and Tools:**
  
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on software and website development.
 - 👨🏻‍💻 I’m always ready to work and learn from other developers.
-- 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
+- 📫 How to reach me: :email: :iphone: :telephone_receiver: :fax: :mega: :mailbox:
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&show=javascript,css,scss,html&theme=tokyonight" alt="reinhard" /> </p>
