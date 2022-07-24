@@ -18,6 +18,8 @@
 - 👨🏻‍💻 I’m always ready to work and learn from other developers.
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
 
+<a href="https://github-readme-stats.vercel.app/api?username=Reinhard&theme=highcontrast&show_icons=true&count_private=true"                             </a>
+
    
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
