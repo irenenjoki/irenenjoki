@@ -22,4 +22,4 @@
 - 🌱 I like programming but currently working on web development.
 - 👨🏻‍💻 I’m always ready to work and learn from other developers.
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Reinhardshow_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Reinhard&count_private=true&show_icons=true" />
