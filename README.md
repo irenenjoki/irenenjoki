@@ -22,8 +22,7 @@
 
 
 
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! ,I am 
-![1](https://github.com/reinchemo/reinchemo/blob/master/assets/name.gif)
+
 
 
 
