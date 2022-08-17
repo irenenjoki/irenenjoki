@@ -18,11 +18,11 @@
 <br />
 <br />
 <br />
-<a href="https://www.instagram.com/reiny_44/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/reiny_44/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br/>
 
-<a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-00008b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-00008b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br/>
 
-<a href="https://www.linkedin.com/in/reinhard-kiprop-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/reinhard-kiprop-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br/>
  
 
  
