@@ -1,10 +1,4 @@
 
-<p align="center">
-<img src="header.svg" />
-</p>
-
-&nbsp;
-
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/HTML5-00008b?style=for-the-badge&logo=html5&logoColor=ff6216)
