@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="header.svg" />
+</p
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/HTML5-00008b?style=for-the-badge&logo=html5&logoColor=ff6216)
@@ -25,7 +27,7 @@
 <a href="https://www.linkedin.com/in/reinhard-kiprop-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br/>
  
 
- 
+ ![Snake animation](https://github.com/Bumboobee/Bumboobee/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
