@@ -23,7 +23,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&layout=compact&langs_count=7&theme=github_dark"/>
 
   
-  
+<br />
+<br />
   
 <a href="https://www.instagram.com/reiny_44/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/reinhard-kiprop-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
