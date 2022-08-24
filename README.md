@@ -1,5 +1,4 @@
 
-  <img align="left" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 <p align="center">
 <img src="header.svg" />
 </p>
