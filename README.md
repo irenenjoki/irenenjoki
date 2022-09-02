@@ -13,9 +13,9 @@
 &nbsp;  
 ![Javascript](https://img.shields.io/badge/JavaScript-00008b?style=for-the-badge&logo=javascript&logoColor=fffb27)
 &nbsp;
-![C#](https://img.shields.io/badge/C%23-00008b?style=for-the-badge&logo=csharp&logoColor=6fcf00)
+![Nodejs](https://img.shields.io/badge/C%23-00008b?style=for-the-badge&logo=csharp&logoColor=6fcf00)
 &nbsp;
-![DOTNET](https://img.shields.io/badge/.NET-00008b?style=for-the-badge&logo=dotnet&logoColor=8c00ca)
+![Angular](https://img.shields.io/badge/.NET-00008b?style=for-the-badge&logo=dotnet&logoColor=8c00ca)
 
 &nbsp;
 
