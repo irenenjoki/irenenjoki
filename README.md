@@ -26,7 +26,7 @@
 <br />
 <br /> 
 </div>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/irenenjoki/irenenjoki/blob/output/github-contribution-grid-snake.svg)
  
