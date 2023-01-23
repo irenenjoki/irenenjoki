@@ -21,8 +21,8 @@
 
 <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=irenenjoki&count_private=true&show_icons=true" />
-<br />
-<br /> 
+
+
 </div>
 
  
