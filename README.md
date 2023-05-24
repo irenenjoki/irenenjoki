@@ -26,7 +26,7 @@
 <br />
 <br /> 
   
-<a href="https://www.instagram.com/reiny_44/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ target="_blank"><img src="https://img.shields.io/badge/-Instagram-00008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/SylviaMichira-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/SylviaMichira/SylviaMichira/blob/output/github-contribution-grid-snake.svg)
