@@ -19,17 +19,17 @@
 
 &nbsp;
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SylviaMichira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylviaMichira&layout=compact&langs_count=7&theme=github_dark"/>
 
   
 <br />
 <br /> 
   
 <a href="https://www.instagram.com/reiny_44/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/reinhard-kiprop-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/SylviaMichira-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/reinchemo/reinchemo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SylviaMichira/SylviaMichira/blob/output/github-contribution-grid-snake.svg)
  
   
 </div>
