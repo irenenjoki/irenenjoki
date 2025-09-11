@@ -32,7 +32,7 @@
 					margin: 0;
 					width: 100%;
 					height: 200px;
-					background: linear-gradient(-45deg, #09009B, #3EDBF0, #610094);
+background: linear-gradient(-45deg, #004d4d, #006666, #004d4d);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
